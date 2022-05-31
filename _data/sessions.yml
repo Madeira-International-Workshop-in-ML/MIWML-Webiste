@@ -60,13 +60,13 @@
   language: en
   complexity: "Intermediate"
   
- - id: 020
-   title: "Recurrent neural networks-Part II"
-   description: "Recurrent neural networks"
-   subtype: workshop
-   speakers: [ 2 ]
-   language: en
-   complexity: "Intermediate"
+- id: 020
+  title: "Recurrent neural networks-Part II"
+  description: "Recurrent neural networks"
+  subtype: workshop
+  speakers: [ 2 ]
+  language: en
+  complexity: "Intermediate"
 
 - id: 010
   title: "LSTMs"
