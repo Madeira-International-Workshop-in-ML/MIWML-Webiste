@@ -13,7 +13,7 @@
   description: "The best time to talk with speakers and attendees"
 
 - id: 003
-  title: "Introduction to Python-Part-I"
+  title: "Introduction to Python-Part I"
   description: "Introduction to Python"
   subtype: workshop
   speakers: [ 5 ]
@@ -21,7 +21,7 @@
   complexity: "Beginner"
   
 - id: 004
-  title: "Introduction to Python-Part-II"
+  title: "Introduction to Python-Part II"
   description: "Introduction to Python"
   subtype: workshop
   speakers: [ 5 ]
@@ -126,3 +126,11 @@
   speakers: [ 10 ]
   language: en
   complexity: "N.A."
+  
+ - id: 020
+  title: "Transfer learning"
+  description: "Transfer learning"
+  subtype: workshop
+  speakers: [ 3 ]
+  language: en
+  complexity: "Advanced"
