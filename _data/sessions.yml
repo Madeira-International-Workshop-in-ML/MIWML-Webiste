@@ -128,9 +128,9 @@
   complexity: "N.A."
   
  - id: 020
-  title: "Transfer learning"
-  description: "Transfer learning"
-  subtype: workshop
-  speakers: [ 3 ]
-  language: en
-  complexity: "Advanced"
+   title: "Transfer learning"
+   description: "Transfer learning"
+   subtype: workshop
+   speakers: [ 3 ]
+   language: en
+   complexity: "Advanced"
