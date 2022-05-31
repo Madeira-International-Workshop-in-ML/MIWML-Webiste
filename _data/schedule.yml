@@ -52,7 +52,7 @@
     - {
       startTime: "12:15",
       endTime: "13:00",
-      sessionIds: [ 008 ]
+      sessionIds: [ 020 ]
     }
 
 - date: "2022-07-20"
