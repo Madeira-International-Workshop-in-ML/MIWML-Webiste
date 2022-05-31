@@ -59,6 +59,14 @@
   speakers: [ 2 ]
   language: en
   complexity: "Intermediate"
+  
+ - id: 020
+   title: "Recurrent neural networks-Part II"
+   description: "Recurrent neural networks"
+   subtype: workshop
+   speakers: [ 2 ]
+   language: en
+   complexity: "Intermediate"
 
 - id: 010
   title: "LSTMs"
@@ -134,3 +142,13 @@
   speakers: [ 3 ]
   language: en
   complexity: "Advanced"
+  
+  
+- id: 021
+  title: "Transfer Learning"
+  description: "Transfer Learning"
+  subtype: workshop
+  speakers: [ 3 ]
+  language: en
+  complexity: "Intermediate"
+
