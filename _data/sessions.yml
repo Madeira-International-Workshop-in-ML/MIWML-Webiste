@@ -20,7 +20,7 @@
   language: en
   complexity: "Beginner"
   
-  id: 004
+- id: 004
   title: "Introduction to Python-Part-II"
   description: "Introduction to Python"
   subtype: workshop
