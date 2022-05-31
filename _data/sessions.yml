@@ -13,16 +13,16 @@
   description: "The best time to talk with speakers and attendees"
 
 - id: 003
-  title: "Introduction to Python"
+  title: "Introduction to Python-Part-I"
   description: "Introduction to Python"
   subtype: workshop
   speakers: [ 5 ]
   language: en
   complexity: "Beginner"
-
-- id: 004
-  title: "Introduction to ANN using scikit-learn"
-  description: "Introduction to ANN using scikit-learn"
+  
+  id: 004
+  title: "Introduction to Python-Part-II"
+  description: "Introduction to Python"
   subtype: workshop
   speakers: [ 5 ]
   language: en
@@ -37,16 +37,8 @@
   complexity: "Beginner"
 
 - id: 006
-  title: "Image Processing"
-  description: "Image Processing"
-  subtype: workshop
-  speakers: [ 4 ]
-  language: en
-  complexity: "Intermediate"
-
-- id: 007
-  title: "Feature calculation and applications"
-  description: "Feature calculation and applications"
+  title: "Data Augmentation"
+  description: "Data Augmentation"
   subtype: workshop
   speakers: [ 4 ]
   language: en
@@ -80,17 +72,10 @@
   title: "Gated recurrent units"
   description: "Gated recurrent units"
   subtype: workshop
-  speakers: [ 2 ]
+  speakers: [ 4 ]
   language: en
   complexity: "Intermediate"
 
-- id: 012
-  title: "CNNs and LSTMs"
-  description: "CNNs and LSTMs"
-  subtype: workshop
-  speakers: [ 2 ]
-  language: en
-  complexity: "Advanced"
 
 - id: 013
   title: "Mobile app development—Part I"
