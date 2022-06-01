@@ -21,14 +21,6 @@
   complexity: "Beginner"
 
 - id: 004
-  title: "Introduction to ANN using scikit-learn"
-  description: "Introduction to ANN using scikit-learn"
-  subtype: workshop
-  speakers: [ 5 ]
-  language: en
-  complexity: "Beginner"
-
-- id: 005
   title: "Introduction to ANN using TensorFlow"
   description: "Introduction to ANN using TensorFlow"
   subtype: workshop
@@ -36,23 +28,15 @@
   language: en
   complexity: "Beginner"
 
+- id: 005
+  title: "Data Augmentation"
+  description: "Data Augmentation"
+  subtype: workshop
+  speakers: [ 4 ]
+  language: en
+  complexity: "Intermediate"
+
 - id: 006
-  title: "Image Processing"
-  description: "Image Processing"
-  subtype: workshop
-  speakers: [ 4 ]
-  language: en
-  complexity: "Intermediate"
-
-- id: 007
-  title: "Feature calculation and applications"
-  description: "Feature calculation and applications"
-  subtype: workshop
-  speakers: [ 4 ]
-  language: en
-  complexity: "Intermediate"
-
-- id: 008
   title: "CNNs"
   description: "CNNs"
   subtype: workshop
@@ -60,9 +44,25 @@
   language: en
   complexity: "Beginner"
 
+- id: 007
+  title: "Transfer Learning"
+  description: "Transfer Learning"
+  subtype: workshop
+  speakers: [ 3 ]
+  language: en
+  complexity: "Intermediate"
+
+- id: 008
+  title: "Recurrent neural networks-Part I"
+  description: "Recurrent neural networks-Part I"
+  subtype: workshop
+  speakers: [ 2 ]
+  language: en
+  complexity: "Intermediate"
+
 - id: 009
-  title: "Recurrent neural networks"
-  description: "Recurrent neural networks"
+  title: "Recurrent neural networks-Part II"
+  description: "Recurrent neural networks-Part II"
   subtype: workshop
   speakers: [ 2 ]
   language: en
@@ -80,20 +80,20 @@
   title: "Gated recurrent units"
   description: "Gated recurrent units"
   subtype: workshop
-  speakers: [ 2 ]
+  speakers: [ 4 ]
   language: en
   complexity: "Intermediate"
 
 - id: 012
-  title: "CNNs and LSTMs"
-  description: "CNNs and LSTMs"
+  title: "Mobile app development—Part I"
+  description: "Mobile app development"
   subtype: workshop
-  speakers: [ 2 ]
+  speakers: [ 8, 9 ]
   language: en
   complexity: "Advanced"
 
 - id: 013
-  title: "Mobile app development—Part I"
+  title: "Mobile app development—Part II"
   description: "Mobile app development"
   subtype: workshop
   speakers: [ 5 ]
@@ -101,12 +101,12 @@
   complexity: "Advanced"
 
 - id: 014
-  title: "Mobile app development—Part II"
-  description: "Mobile app development"
-  subtype: workshop
-  speakers: [ 5 ]
+  title: "Closing ceremony"
+  description: "Closing ceremony"
+  subtype: presentation
+  speakers: [ 1 ]
   language: en
-  complexity: "Advanced"
+  complexity: "N.A."
 
 - id: 015
   title: "Companies' Day"
@@ -117,15 +117,6 @@
   complexity: "N.A."
 
 - id: 016
-  title: "Closing ceremony"
-  description: "Closing ceremony"
-  subtype: presentation
-  speakers: [ 1 ]
-  language: en
-  complexity: "N.A."
-
-
-- id: 018
   title: "Talk <small>(Google speaker)</small>"
   description: "Talk"
   subtype: presentation
@@ -133,8 +124,7 @@
   language: en
   complexity: "N.A."
 
-
-- id: 019
+- id: 017
   title: "Talk <small>(Cloudflare speaker)</small>"
   description: "Talk"
   subtype: presentation
