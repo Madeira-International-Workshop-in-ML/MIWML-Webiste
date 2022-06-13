@@ -5,8 +5,8 @@
   title: "Associate Professor"
   bio: "Morgado-Dias received the master’s degree in microelectronics from the University Joseph Fourier, Grenoble, France, in 1995, and the PhD degree from the University of Aveiro, Portugal, in 2005. He is currently an Associate professor with the University of Madeira and a Researcher with the Madeira Interactive Technologies Institute and ITI/LARSyS. His research interests include renewable energy, artificial neural networks, and FPGA implementations."
   thumbnailUrl: morgado.jpg
-  rockstar: true
-  is_speaker: true
+  rockstar: false
+  is_speaker: false
   team: true
 
 - id: 2
@@ -97,6 +97,17 @@
   title: "Senior Cybersecurity Sales Engineer"
   bio: 'Andrey E Moskvitin is a cybersecurity system sales engineer with 15 years of experience across EMEAR and APAC. He has worked with Microsoft, Cisco, and McAfee and possesses extensive experience and knowledge in security and cloud solutions and market trends. A few certifications under his name include SABSA, CCSP, CISSP, CISA, and CISM. He graduated in Computer Security and Mathematics.'
   thumbnailUrl: andrey_moskvitin.jpeg
+  rockstar: true
+  is_speaker: true
+  team: false
+
+  - id: 11
+  name: "Lígia"
+  surname: "Gonçalves"
+  company: "WalkMe"
+  title: "UI Developer"
+  bio: 'TBD'
+  thumbnailUrl: ligia.jpeg
   rockstar: true
   is_speaker: true
   team: false
