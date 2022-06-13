@@ -101,7 +101,7 @@
   is_speaker: true
   team: false
 
-  - id: 11
+- id: 11
   name: "Lígia"
   surname: "Gonçalves"
   company: "WalkMe"
