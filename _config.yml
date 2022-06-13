@@ -104,8 +104,8 @@ ticketsOffers:
     buyButtonLink: "#"
     buyButtonText: "Buy Now"
     additionalInfo: "Requires a sending a valid student ID after purchasing the ticket."
-    validFrom: "2022-06-01T10:00"
-    validThrough: "2022-07-01T23:59"
+    validFrom: "2022-06-27T10:00"
+    validThrough: "2022-07-03T23:59"
     disabled: true
 
   - name: "Early Bird—Regular"
@@ -114,8 +114,8 @@ ticketsOffers:
     ticketsNumber: "40"
     buyButtonLink: "#"
     buyButtonText: "Buy Now"
-    validFrom: "2022-06-01T10:00"
-    validThrough: "2022-07-01T23:59"
+    validFrom: "2022-06-27T10:00"
+    validThrough: "2022-07-03T23:59"
     disabled: true
 
   - name: "Student"
@@ -126,7 +126,7 @@ ticketsOffers:
     buyButtonLink: "#"
     buyButtonText: "Buy Now"
     additionalInfo: "Requires a sending a valid student ID after purchasing the ticket."
-    validFrom: "2022-07-01T00:00"
+    validFrom: "2022-07-04T00:00"
     validThrough: "2022-07-15T23:59"
     disabled: true
 
@@ -137,7 +137,7 @@ ticketsOffers:
     featured: true
     buyButtonLink: "#"
     buyButtonText: "Buy Now"
-    validFrom: "2022-07-01T00:00"
+    validFrom: "2022-07-04T00:00"
     validThrough: "2022-07-15T23:59"
     disabled: true
 
