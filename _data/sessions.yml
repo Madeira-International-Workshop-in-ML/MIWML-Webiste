@@ -117,7 +117,7 @@
   complexity: "N.A."
 
 - id: 016
-  title: "Talk <small>(Google speaker)</small>"
+  title: "Talk"
   description: "Talk"
   subtype: presentation
   speakers: [ 7 ]
@@ -125,9 +125,17 @@
   complexity: "N.A."
 
 - id: 017
-  title: "Talk <small>(Cloudflare speaker)</small>"
+  title: "Talk"
   description: "Talk"
   subtype: presentation
   speakers: [ 10 ]
+  language: en
+  complexity: "N.A."
+
+- id: 018
+  title: "I Have an [APP] idea. Now What?"
+  description: "Talk"
+  subtype: presentation
+  speakers: [ 11 ]
   language: en
   complexity: "N.A."

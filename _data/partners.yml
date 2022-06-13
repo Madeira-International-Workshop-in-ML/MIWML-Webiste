@@ -4,3 +4,4 @@
 - group: "Bronze sponsors"
   elements:
     - { name: "ABS GmbH", description: "The ABS GmbH is a manufacturer and developer of customized digital camera systems for a wide range of application areas and provides an established product range of modular camera families. Due to this the ABS mostly is able to realize individual and economic special solutions without the necessity for a fundamental and expensive new development. In addition, the ABS develops its own firmware and system adapted camera software for operation, image preprocessing and image analysis.", link: "https://www.abs-gmbh.de", imageUrl: "abs-logo.jpg", width: "120px" }
+    - { name: "Câmara Municipal de Câmara de Lobos", description: "Câmara Municipal de Câmara de Lobos is responsible for the day-to-day management and planning of Câmara de Lobos . It is a collegiate body composed of the mayor and the councilors.", link: "http://www.cm-camaradelobos.pt", imageUrl: "cmcl-logo.jpg", width: "120px" }
