@@ -95,7 +95,7 @@ copyrightTitle: "Image copyrights"
 
 # Tickets Block
 ticketsTitle: "Registration Fees"
-ticketsInfo: "Both types of registration will provide access to all the files and presentations used during the workshop. <b>Tickets selling dates are tentative dates.</b>"
+ticketsInfo: "Both types of registration will provide access to all the files and presentations used during the workshop."
 ticketsOffers:
   - name: "Early Bird—Students"
     price: "25"
