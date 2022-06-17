@@ -156,7 +156,15 @@
   language: en
   complexity: "N.A."
 
-- id: 021
+- id: 020
+  title: "Closing ceremony"
+  description: "Closing ceremony"
+  subtype: presentation
+  speakers: [  ]
+  language: en
+  complexity: "N.A."
+
+- id: 022
   title: "Doors Close"
   description: "Doors Close"
   subtype: presentation
