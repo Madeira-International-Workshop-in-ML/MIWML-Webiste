@@ -53,16 +53,16 @@
   complexity: "Intermediate"
 
 - id: 008
-  title: "Recurrent neural networks-Part I"
-  description: "Recurrent neural networks-Part I"
+  title: "Recurrent Neural Networks-Part I"
+  description: "Recurrent Neural Networks-Part I"
   subtype: workshop
   speakers: [ 2 ]
   language: en
   complexity: "Intermediate"
 
 - id: 009
-  title: "Recurrent neural networks-Part II"
-  description: "Recurrent neural networks-Part II"
+  title: "Recurrent Neural Networks-Part II"
+  description: "Recurrent Neural Networks-Part II"
   subtype: workshop
   speakers: [ 2 ]
   language: en
@@ -77,24 +77,24 @@
   complexity: "Intermediate"
 
 - id: 011
-  title: "Gated recurrent units"
-  description: "Gated recurrent units"
+  title: "Gated Recurrent Units"
+  description: "Gated Recurrent Units"
   subtype: workshop
   speakers: [ 4 ]
   language: en
   complexity: "Intermediate"
 
 - id: 012
-  title: "Mobile app development—Part I"
-  description: "Mobile app development"
+  title: "Mobile App Development—Part I"
+  description: "Mobile App Development"
   subtype: workshop
   speakers: [ 8, 9 ]
   language: en
   complexity: "Advanced"
 
 - id: 013
-  title: "Mobile app development—Part II"
-  description: "Mobile app development"
+  title: "Mobile App Development—Part II"
+  description: "Mobile App Development"
   subtype: workshop
   speakers: [ 5 ]
   language: en
@@ -157,8 +157,8 @@
   complexity: "N.A."
 
 - id: 021
-  title: "Closing ceremony"
-  description: "Closing ceremony"
+  title: "Closing Ceremony"
+  description: "Closing Ceremony"
   subtype: presentation
   speakers: [  ]
   language: en
