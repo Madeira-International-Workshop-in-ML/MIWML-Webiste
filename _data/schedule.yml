@@ -89,13 +89,13 @@
       sessionIds: [ 016 ] 
     }
     - {
-      startTime: "20:00",
-      endTime: "20:30",
+      startTime: "21:00",
+      endTime: "21:30",
       sessionIds: [ 021 ]
     }
     - {
-      startTime: "21:00",
-      endTime: "21:00",
+      startTime: "22:00",
+      endTime: "22:00",
       sessionIds: [ 022 ]
     }
 
