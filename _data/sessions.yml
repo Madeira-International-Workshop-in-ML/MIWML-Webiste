@@ -109,8 +109,8 @@
   complexity: "N.A."
 
 - id: 015
-  title: "Companies' Day"
-  description: "Companies' Day"
+  title: "Doors Open"
+  description: "Doors Open"
   subtype: presentation
   speakers: [ ]
   language: en
@@ -133,9 +133,33 @@
   complexity: "N.A."
 
 - id: 018
-  title: "I Have an [APP] idea. Now What?"
+  title: "I Have an [APP] Idea. Now What?"
   description: "Talk"
   subtype: presentation
   speakers: [ 11 ]
+  language: en
+  complexity: "N.A."
+
+- id: 019
+  title: "Talk"
+  description: "Talk"
+  subtype: presentation
+  speakers: [ 12 ]
+  language: en
+  complexity: "N.A."
+
+- id: 020
+  title: "Closing Ceremony"
+  description: "Closing Ceremony"
+  subtype: presentation
+  speakers: [ ]
+  language: en
+  complexity: "N.A."
+
+- id: 021
+  title: "Doors Close"
+  description: "Doors Close"
+  subtype: presentation
+  speakers: [ ]
   language: en
   complexity: "N.A."
