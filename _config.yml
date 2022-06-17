@@ -65,16 +65,16 @@ missionBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
-  - { count: "50", specialCharacter: "+", info: "attendees", detail: "from everywhere" }
+  - { count: "400", specialCharacter: "+", info: "attendees", detail: "from everywhere" }
   - { count: "15", specialCharacter: "+", info: "hours", detail: "of pure AI topics" }
-  - { count: "2", specialCharacter: "", info: "speakers", detail: "experts in AI" }
+  - { count: "4", specialCharacter: "", info: "speakers", detail: "experts in different topics" }
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "featured-speakers.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Featured Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

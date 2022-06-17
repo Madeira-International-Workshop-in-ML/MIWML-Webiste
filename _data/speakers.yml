@@ -6,7 +6,7 @@
   bio: "Morgado-Dias received the master’s degree in microelectronics from the University Joseph Fourier, Grenoble, France, in 1995, and the PhD degree from the University of Aveiro, Portugal, in 2005. He is currently an Associate professor with the University of Madeira and a Researcher with the Madeira Interactive Technologies Institute and ITI/LARSyS. His research interests include renewable energy, artificial neural networks, and FPGA implementations."
   thumbnailUrl: morgado.jpg
   rockstar: false
-  is_speaker: false
+  is_speaker: true
   team: true
 
 - id: 2
@@ -108,6 +108,17 @@
   title: "UI Developer"
   bio: 'TBD'
   thumbnailUrl: ligia.jpeg
+  rockstar: true
+  is_speaker: true
+  team: false
+
+- id: 12
+  name: "João"
+  surname: "Gonçalves"
+  company: "Asseco PST"
+  title: "Head of Data & Analytics"
+  bio: 'TBD'
+  thumbnailUrl: unknown.png
   rockstar: true
   is_speaker: true
   team: false
