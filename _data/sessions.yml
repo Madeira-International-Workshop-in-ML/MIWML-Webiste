@@ -149,8 +149,8 @@
   complexity: "N.A."
 
 - id: 020
-  title: "Closing Ceremony"
-  description: "Closing Ceremony"
+  title: "Opening Ceremony"
+  description: "Opening Ceremony"
   subtype: presentation
   speakers: [ ]
   language: en
