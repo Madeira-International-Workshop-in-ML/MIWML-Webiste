@@ -101,8 +101,8 @@
   complexity: "Advanced"
 
 - id: 014
-  title: "Closing ceremony"
-  description: "Closing ceremony"
+  title: "Closing Ceremony"
+  description: "Closing Ceremony"
   subtype: presentation
   speakers: [ 1 ]
   language: en
