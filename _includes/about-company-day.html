@@ -19,7 +19,7 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper text-left">
         {% for day in site.data.schedule %}
-        {{ if day.showCompanyDayPage == "False" }}
+        {% if day.showCompanyDayPage == "False" %}
         {% continue %}
         {% endif %}
         <div class="schedule-table col-lg-8 col-md-11 col-md-offset-1">
