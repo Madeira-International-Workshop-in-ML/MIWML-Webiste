@@ -64,8 +64,8 @@
       sessionIds: [ 015 ]
     }
     - {
-      startTime: "17:45",
-      endTime: "18:00",
+      startTime: "17:00",
+      endTime: "17:30",
       sessionIds: [ 020 ]
     }
     - {
@@ -94,8 +94,8 @@
       sessionIds: [ 021 ]
     }
     - {
-      startTime: "22:00",
-      endTime: "22:00",
+      startTime: "21:00",
+      endTime: "21:00",
       sessionIds: [ 022 ]
     }
 
