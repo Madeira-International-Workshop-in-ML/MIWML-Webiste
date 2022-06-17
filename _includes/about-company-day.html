@@ -19,10 +19,13 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper text-left">
         {% for day in site.data.schedule %}
+        {{ if day.showCompanyDayPage == "False" }}
+        {% continue %}
+        {% endif %}
         <div class="schedule-table col-lg-8 col-md-11 col-md-offset-1">
-            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <h4 class="schedule-table-heading">Agenda for the Company Day</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Day {{ forloop.index }}</div>
+                <div class="track-header-label">Hours</div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}

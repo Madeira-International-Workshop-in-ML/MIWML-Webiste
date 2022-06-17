@@ -1,5 +1,6 @@
 - date: "2022-07-18"
   dateReadable: "July 18"
+  showCompanyDayPage: False
   tracks:
     - { title: "Event", color: "#90be4e" }
   timeslots:
@@ -26,6 +27,7 @@
 
 - date: "2022-07-19"
   dateReadable: "July 19"
+  showCompanyDayPage: False
   tracks:
     - { title: "Event", color: "#90be4e" }
   timeslots:
@@ -52,6 +54,7 @@
 
 - date: "2022-07-20"
   dateReadable: "July 20"
+  showCompanyDayPage: True
   tracks:
     - { title: "Event", color: "#90be4e" }
   timeslots:
@@ -99,6 +102,7 @@
 
 - date: "2022-07-21"
   dateReadable: "July 21"
+  showCompanyDayPage: False
   tracks:
     - { title: "Event", color: "#90be4e" }
   timeslots:
@@ -130,6 +134,7 @@
 
 - date: "2022-07-22"
   dateReadable: "July 22"
+  showCompanyDayPage: False
   tracks:
     - { title: "Event", color: "#90be4e" }
   timeslots:
