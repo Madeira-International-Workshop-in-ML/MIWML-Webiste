@@ -141,8 +141,8 @@
   complexity: "N.A."
 
 - id: 019
-  title: "Talk"
-  description: "Talk"
+  title: "Data: Importance and Challenges"
+  description: "Asseco PST Brief Presentation; The relevance of data in the digital world and the challenges to consider when using data; Examples of using data on AI processes."
   subtype: presentation
   speakers: [ 12 ]
   language: en
