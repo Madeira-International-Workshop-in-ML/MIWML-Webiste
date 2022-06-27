@@ -125,8 +125,8 @@
   complexity: "N.A."
 
 - id: 017
-  title: "Talk"
-  description: "Talk"
+  title: "So You Want to be a Cyber-Pro Hacker?"
+  description: "We will go over different kinds of roles in cyber security and have an honest open talk about how to land your first job. But most importantly - motivations to work in cyber"
   subtype: presentation
   speakers: [ 10 ]
   language: en
