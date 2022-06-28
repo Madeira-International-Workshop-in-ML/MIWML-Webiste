@@ -60,7 +60,7 @@ aboutCompany: "Company day"
 missionTitle: "Mission"
 missionBlock:
   - { title: "Vision", text: "This workshop shows the basic steps needed to start Machine Learning with Python. It also serves for sharing the knowledge with a beginner by showing the steps and tools related to the field. The planned sessions include theoretical lectures and practical sessions given by researchers with experience in Machine Learning applications. On the 4th day, we will have what we named <i>Company Day</i>, an entire day dedicated to companies (open to public, ticket free of charge). During the day, companies will have the opportunity to share their work, products, services and eventually do in-local job interviews." }
-  - { title: "Prerequisites for the workshop", text: "– Personal laptop. <br/> – Basic knowledge of programming. <br/> – Hands on experience with basic Python.<br/> – Machine Learning knowledge is desirable, though not mandatory." }
+  - { title: "Prerequisites for the workshop", text: "– Personal laptop. <br/> – Basic knowledge of programming. <br/> – Hands on experience with basic Python (preferably).<br/> – Machine Learning knowledge is desirable, though not mandatory." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
