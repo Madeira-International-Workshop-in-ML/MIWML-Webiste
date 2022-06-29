@@ -117,8 +117,8 @@
   complexity: "N.A."
 
 - id: 016
-  title: "Talk"
-  description: "Talk"
+  title: "ML for All Developers"
+  description: "Mobile, web, and backend developers: Adding machine learning to your app is easier then you'd expect! In this talk we will go from using turnkey solutions to using your own models."
   subtype: presentation
   speakers: [ 7 ]
   language: en
