@@ -7,3 +7,4 @@
 - group: "Bronze sponsors"
   elements:
     - { name: "Câmara Municipal de Câmara de Lobos", description: "Câmara Municipal de Câmara de Lobos is responsible for the day-to-day management and planning of Câmara de Lobos . It is a collegiate body composed of the mayor and the councilors.", link: "http://www.cm-camaradelobos.pt", imageUrl: "cmcl-logo.jpg", width: "120px" }
+    - { name: "MEO", description: "Altice Portugal is a global telecommunications and multimedia operator based in Portugal. The company’s activities extend across all telecommunications segments: fixed line, mobile, multimedia, data and business solutions.", link: "https://meo.pt", imageUrl: "meo.png", width: "120px" }
