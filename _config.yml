@@ -49,9 +49,9 @@ heroButtons:
 # About workshop Block
 aboutTitle: "About the Event"
 aboutBlock:
-  - { title: "Workshop", image: "workshop.jpg", text: "This workshop is designed to show the basic steps needed to start Machine Learning with Python." }
-  - { title: "Talks", image: "talks.jpg", text: "We will have fascinating talks about AI given by a top researcher and a developer advocate at Google." }
-  - { title: "Company Exhibition", image: "companies.jpg", text: "We will have a company exhibition, where you can get in touch with current technologies, make new contacts and eventually apply for job offers." }
+  - { title: "Workshop", link: "/about-workshop/", image: "workshop.jpg", text: "This workshop is designed to show the basic steps needed to start Machine Learning with Python." }
+  - { title: "Talks", link: "/speakers/", image: "talks.jpg", text: "We will have fascinating talks about AI given by a top researcher and a developer advocate at Google." }
+  - { title: "Company Exhibition", link: "/about-company-day/", image: "companies.jpg", text: "We will have a company exhibition, where you can get in touch with current technologies, make new contacts and eventually apply for job offers." }
 
 # About workshop Block
 aboutCompany: "Company day"
