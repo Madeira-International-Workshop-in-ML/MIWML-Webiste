@@ -128,7 +128,7 @@ ticketsOffers:
     additionalInfo: "Requires a sending a valid student ID after purchasing the ticket."
     validFrom: "2022-07-04T00:00"
     validThrough: "2022-07-17T23:59"
-    disabled: false
+    disabled: true
 
   - name: "Regular"
     price: "70"
@@ -139,7 +139,7 @@ ticketsOffers:
     buyButtonText: "Buy Now"
     validFrom: "2022-07-04T00:00"
     validThrough: "2022-07-17T23:59"
-    disabled: false
+    disabled: true
 
 footerBlocks:
   - title: "Links"
