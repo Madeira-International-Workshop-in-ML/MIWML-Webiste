@@ -42,9 +42,9 @@ heroTitle: "Madeira International Workshop in Machine Learning"
 eventDate: "Madeira Tecnopolo, 18–22 July, 2022"
 typeoutTextValues: ''
 typeoutFallback: "Season"
-heroButtons:
-  - { permalink: "/about-company-day", text: "COMPANY DAY",type: "primary" }
-  - { permalink: "/#tickets", text: "REGISTRATION", type: "success" }
+#heroButtons:
+#  - { permalink: "/about-company-day", text: "COMPANY DAY",type: "primary" }
+#  - { permalink: "/#tickets", text: "REGISTRATION", type: "success" }
 
 # About workshop Block
 aboutTitle: "About the Event"
